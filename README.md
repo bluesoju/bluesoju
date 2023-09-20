@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cong Trinh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://images-ext-1.discordapp.net/external/drt8DXVMORT23PdHpU-uqbhBcI8NttGpCgRSsa__2JY/https/gifdb.com/images/high/hacker-thumbs-up-8och19kzuukqqnwn.gif?width=837&height=468" width="230">
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 <p><em>CyberSecurity Student at <a href="https://en.uit.edu.vn/">University of Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Machine Learning Intern at <a href="https://inseclab.uit.edu.vn/">InSec Lab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
